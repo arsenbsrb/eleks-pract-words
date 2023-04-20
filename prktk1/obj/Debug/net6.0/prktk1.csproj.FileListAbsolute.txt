@@ -1,0 +1,15 @@
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\bin\Debug\net6.0\prktk1.exe
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\bin\Debug\net6.0\prktk1.deps.json
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\bin\Debug\net6.0\prktk1.runtimeconfig.json
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\bin\Debug\net6.0\prktk1.dll
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\bin\Debug\net6.0\prktk1.pdb
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.csproj.AssemblyReference.cache
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.AssemblyInfoInputs.cache
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.AssemblyInfo.cs
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.csproj.CoreCompileInputs.cache
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.dll
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\refint\prktk1.dll
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.pdb
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\prktk1.genruntimeconfig.cache
+E:\Arsen\Univer\Praktyka\prktk1\prktk1\obj\Debug\net6.0\ref\prktk1.dll
